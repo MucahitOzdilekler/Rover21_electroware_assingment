@@ -1,0 +1,8 @@
+prefix=/home/mcht/robotik_ws/devel
+
+Name: husky_description
+Description: Description of husky_description
+Version: 0.3.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

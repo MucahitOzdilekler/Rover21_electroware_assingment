@@ -1,0 +1,2 @@
+robotics/husky_base:robotics/husky_bringup:robotics/husky_control:robotics/husky_description:robotics/husky_desktop:robotics/husky_gazebo:robotics/husky_msgs:robotics/husky_navigation:robotics/husky_robot:robotics/husky_simulator:robotics/husky_viz:robotics/robot_localization_ros-master/robot_localization:robotics/scripts
+-DCATKIN_DEVEL_PREFIX=/home/mcht/robotik_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mcht/robotik_ws/install -G Unix Makefiles
